@@ -1,0 +1,29 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
